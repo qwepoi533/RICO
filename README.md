@@ -2,10 +2,11 @@
 Random Intersection Chain Online
 
 Requirements:
-Tensorflow 2.4.0
-Python 3.7
-CUDA 11.0 (For GPU)
-DeepCTR v0.8.3
+
+Tensorflow 2.4.0; 
+Python 3.7; 
+CUDA 11.0 (For GPU); 
+DeepCTR v0.8.3.
 
 To preprocess the data: run run_data_process.py.
 
